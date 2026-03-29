@@ -1,3 +1,4 @@
+
 # 🎲 Number Randomizer - JavaScript
 
 Projeto desenvolvido com **HTML, CSS e JavaScript**, com o objetivo de realizar o sorteio de números aleatórios dentro de um intervalo definido pelo usuário.
@@ -23,8 +24,10 @@ Este projeto foi criado para praticar **lógica de programação**, **manipulaç
 
 ---
 
-## 🎥 Demonstração do Projeto 
+## 🎥 Vídeo demonstrativo
 
+
+https://github.com/user-attachments/assets/543d3fd8-47c6-419e-bb53-f0ff60127111
 
 
 ---
@@ -54,5 +57,5 @@ Este projeto faz parte da minha evolução como **Desenvolvedor FullStack em des
 ## 👨‍💻 Autor
 
 **Paulo Ricardo**  
-Desenvolvedor FullStack em desenvolvimento 🚀  
+Desenvolvedor FullStack em Constante evolução 🚀  
 GitHub: https://github.com/seu-usuario
